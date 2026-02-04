@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>TalkingGlove</h1>
+      <footer />
     </>
   )
 }
